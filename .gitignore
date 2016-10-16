@@ -1,0 +1,10 @@
+pip-selfcheck.json
+bin/*
+!bin/calveng_io
+include/*
+lib/*
+!lib/python3.5
+lib/python3.5/*
+!lib/python3.5/site-packages
+lib/python3.5/site-packages/*
+!lib/python3.5/site-packages/zinnia
